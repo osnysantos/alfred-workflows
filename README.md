@@ -145,6 +145,22 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 <img width="594" alt="tz" src="https://cloud.githubusercontent.com/assets/398893/14360283/6d3d04f4-fcaa-11e5-90d6-79740e5a5c4d.png">
 
+### [Currency Converter](https://github.com/bigluck/alfred2-currencyconverter) ~ [Download](https://github.com/osnysantos/alfred-workflows/raw/master/currency-converter/currency-converter.alfredworkflow)
+
+Currency converter ~ *by [@bigluck](https://github.com/bigluck).*
+
+> Triggers: `currency`.
+
+<img width="594" alt="currency" src="https://camo.githubusercontent.com/06f6e65643530cc5b24933873df843502e56fa07/687474703a2f2f6935302e74696e797069632e636f6d2f313235703633612e6a7067">
+
+### [Man pages](https://github.com/isometry/alfredworkflows/tree/master/net.isometry.alfred.man) ~ [Download](https://github.com/osnysantos/alfred-workflows/raw/master/man/man.alfredworkflow)
+
+A workflow for Alfred to rapidly open UNIX man pages in any of traditional Terminal, HTML or PDF format. ~ *by [@isometry](https://github.com/isometry).*
+
+> Triggers: `man`.
+
+<img width="594" alt="man" src="https://camo.githubusercontent.com/8cdfd6b715d922d837a75048344b291a198abc96/68747470733a2f2f7261772e6769746875622e636f6d2f69736f6d657472792f616c66726564776f726b666c6f77732f6d61737465722f73637265656e73686f74732f6d616e5f6578616d706c65312e706e67">
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/osnysantos/alfred-workflows/wiki/Extras)
